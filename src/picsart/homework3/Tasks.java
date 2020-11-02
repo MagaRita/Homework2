@@ -1,4 +1,4 @@
-package homework3;
+package picsart.homework3;
 
 public class Tasks {
 

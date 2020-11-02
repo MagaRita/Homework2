@@ -1,4 +1,4 @@
-package homework2;
+package picsart.homework2;
 
 public class Operations {
     public static void main(String[] args) {
